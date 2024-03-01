@@ -161,5 +161,7 @@ David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twit
 
 Second part of Airbnb: Joann Vuong
 Emmilly Immaculate Namuganga - [Github](https://github.com/maqamyle0)
+
+Bradley Ndwaru Njoroge - [Github](https://github.com/dideey)
 ## License
 Public Domain. No copy write protection. 
