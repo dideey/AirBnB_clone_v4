@@ -6,7 +6,7 @@ $(document).ready(function() {
             $('#api_status').removeClass('available');
         }
     });
-});
+
 
 const url = 'http://0.0.0.0:5001/api/v1/places_search/';
 
@@ -42,4 +42,6 @@ fetch(url, {
         }
     })
     .catch((error) => {console.error('Error:', error)});
+});
+
 });

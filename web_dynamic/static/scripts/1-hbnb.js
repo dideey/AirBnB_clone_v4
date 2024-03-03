@@ -1,4 +1,4 @@
-window.onload = function() {
+$(document).ready(function() {
     const amenities = {};
     $('input[type="checkbox"]').change(function() {
         if (this.checked) {
@@ -12,4 +12,4 @@ window.onload = function() {
         $('.amenities h4').html('&nbsp;');
         }
     });
-};
+});
