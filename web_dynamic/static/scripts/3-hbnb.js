@@ -34,7 +34,7 @@ fetch(url, {
                 <div class="description">
                     ${place.description}
                 </div>`;
-            document.querySelector('section.places').appendChild(article);
+           document.querySelector('section.places').appendChild(article);
         }
     })
     .catch((error) => {console.error('Error:', error)});
